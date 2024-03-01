@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+button {
+    background-color: blueviolet;
+    color: #fff;
+    margin: 20px;
+    border: 3px solid black;
+    padding: 10px;
+    border-radius: 7px;
+    cursor: pointer;
+}
